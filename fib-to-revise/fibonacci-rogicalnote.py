@@ -9,7 +9,6 @@ def fib(n):
         return fib(n-1) + fib(n-2)
     else:
         return 1
-print(fib(2018))
+#rint(fib(2018))
 
-
-print(fib(5))
+print(fib(10))

@@ -66,7 +66,7 @@ def fib(n):
         return b
     
 
-print(fib(2018))
+print(fib(1000))
 #答えは In [31]の出力値
 
     
